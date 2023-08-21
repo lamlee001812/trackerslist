@@ -1,0 +1,429 @@
+#EXTM3U8
+http://192.168.50.166:5678/xxtv4k.php
+http://192.168.50.166:5678/sencond-xxtv4k.php
+#EXTINF:-1,cctv4k.php docker
+http://192.168.50.166:5678/cctv4k.php
+#EXTINF:-1,sencond-cctv4k.php docker
+http://192.168.50.166:5678/sencond-cctv4k.php
+#EXTINF:-1,第一财经
+http://192.168.50.166:4022/rtp/239.93.0.141:5140
+#EXTINF:-1,东方财经
+http://192.168.50.166:4022/rtp/239.93.1.165:5140
+#EXTINF:-1,财富天下
+http://192.168.50.166:4022/rtp/239.93.0.116:9136
+#EXTINF:-1,凤凰卫视中文台
+http://192.168.50.166:4022/rtp/239.93.0.162:2192
+#EXTINF:-1,凤凰卫视中文台
+http://192.168.50.166:4022/rtp/239.93.1.9:2192
+#EXTINF:-1,凤凰卫视资讯台
+http://192.168.50.166:4022/rtp/239.93.0.118:2191
+#EXTINF:-1,凤凰卫视资讯台
+http://192.168.50.166:4022/rtp/239.93.1.4:2191
+#EXTINF:-1,CCTV - 1
+http://192.168.50.166:4022/rtp/239.93.0.184:5140
+#EXTINF:-1,CCTV - 1
+http://192.168.50.166:4022/rtp/239.93.1.174:5140
+#EXTINF:-1,CCTV - 1
+http://192.168.50.166:4022/rtp/239.93.0.58:5140
+#EXTINF:-1,CCTV - 1
+http://192.168.50.166:4022/rtp/239.93.0.69:5140
+#EXTINF:-1,CCTV - 1
+http://192.168.50.166:4022/rtp/239.93.42.36:5140
+#EXTINF:-1,CCTV - 2
+http://192.168.50.166:4022/rtp/239.93.0.59:5140
+#EXTINF:-1,CCTV - 2
+http://192.168.50.166:4022/rtp/239.93.1.23:6000
+#EXTINF:-1,CCTV - 3
+http://192.168.50.166:4022/rtp/239.93.1.11:2223
+#EXTINF:-1,CCTV - 3
+http://192.168.50.166:4022/rtp/239.93.0.109:5140
+#EXTINF:-1,CCTV - 4
+http://192.168.50.166:4022/rtp/239.93.1.105:5140
+#EXTINF:-1,CCTV - 4
+http://192.168.50.166:4022/rtp/239.93.0.60:5140
+#EXTINF:-1,CCTV - 5
+http://192.168.50.166:4022/rtp/239.93.42.37:5140
+#EXTINF:-1,CCTV - 5
+http://192.168.50.166:4022/rtp/239.93.1.12:2224
+#EXTINF:-1,CCTV - 5+
+http://192.168.50.166:4022/rtp/239.93.1.173:8004
+#EXTINF:-1,CCTV - 5+
+http://192.168.50.166:4022/rtp/239.93.1.36:8004
+#EXTINF:-1,CCTV - 6
+http://192.168.50.166:4022/rtp/239.93.42.38:5140
+#EXTINF:-1,CCTV - 6
+http://192.168.50.166:4022/rtp/239.93.1.13:2226
+#EXTINF:-1,CCTV - 7
+http://192.168.50.166:4022/rtp/239.93.0.61:5140
+#EXTINF:-1,CCTV - 7
+http://192.168.50.166:4022/rtp/239.93.1.67:5140
+#EXTINF:-1,CCTV - 8
+http://192.168.50.166:4022/rtp/239.93.42.39:5140
+#EXTINF:-1,CCTV - 8
+http://192.168.50.166:4022/rtp/239.93.1.14:2225
+#EXTINF:-1,CCTV - 9
+http://192.168.50.166:4022/rtp/239.93.0.2:5140
+#EXTINF:-1,CCTV - 9
+http://192.168.50.166:4022/rtp/239.93.1.24:5140
+#EXTINF:-1,CCTV - 10
+http://192.168.50.166:4022/rtp/239.93.0.63:5140
+#EXTINF:-1,CCTV - 10
+http://192.168.50.166:4022/rtp/239.93.1.28:5140
+#EXTINF:-1,CCTV - 11
+http://192.168.50.166:4022/rtp/239.93.0.102:5140
+#EXTINF:-1,CCTV - 12
+http://192.168.50.166:4022/rtp/239.93.1.30:8124
+#EXTINF:-1,CCTV - 12
+http://192.168.50.166:4022/rtp/239.93.0.65:5140
+#EXTINF:-1,CCTV - 13
+http://192.168.50.166:4022/rtp/239.93.0.66:5140
+#EXTINF:-1,CCTV - 13
+http://192.168.50.166:4022/rtp/239.93.0.99:5140
+#EXTINF:-1,CCTV - 13
+http://192.168.50.166:4022/rtp/239.93.1.251:8224
+#EXTINF:-1,CCTV - 14
+http://192.168.50.166:4022/rtp/239.93.42.40:5140
+#EXTINF:-1,CCTV - 14
+http://192.168.50.166:4022/rtp/239.93.1.29:6000
+#EXTINF:-1,CCTV - 15
+http://192.168.50.166:4022/rtp/239.93.0.103:5140
+#EXTINF:-1,CCTV - 17
+http://192.168.50.166:4022/rtp/239.93.0.92:5140
+#EXTINF:-1,CETV - 1
+http://192.168.50.166:4022/rtp/239.93.1.111:5140
+#EXTINF:-1,CETV - 4
+http://192.168.50.166:4022/rtp/239.93.0.133:5140
+#EXTINF:-1,四川卫视
+http://192.168.50.166:4022/rtp/239.93.0.169:5140
+#EXTINF:-1,四川卫视
+http://192.168.50.166:4022/rtp/239.93.0.20:1235
+#EXTINF:-1,SCTV - 文化旅游
+http://192.168.50.166:4022/rtp/239.93.1.102:5140
+#EXTINF:-1,SCTV - 经济
+http://192.168.50.166:4022/rtp/239.93.1.101:5140
+#EXTINF:-1,SCTV - 新闻
+http://192.168.50.166:4022/rtp/239.93.0.47:5140
+#EXTINF:-1,SCTV - 影视文艺
+http://192.168.50.166:4022/rtp/239.93.1.195:5140
+#EXTINF:-1,SCTV - 影视文艺
+http://192.168.50.166:4022/rtp/239.93.0.166:5140
+#EXTINF:-1,SCTV - 科教
+http://192.168.50.166:4022/rtp/239.93.42.44:5140
+#EXTINF:-1,SCTV - 乡村
+http://192.168.50.166:4022/rtp/239.93.0.52:5140
+#EXTINF:-1,SCTV - 7
+http://192.168.50.166:4022/rtp/239.93.0.219:5140
+#EXTINF:-1,SCTV - 峨眉电影
+http://192.168.50.166:4022/rtp/239.93.0.252:5140
+#EXTINF:-1,SCTV - 康巴卫视
+http://192.168.50.166:4022/rtp/239.93.0.41:5140
+#EXTINF:-1,CDTV - 综合
+http://192.168.50.166:4022/rtp/239.93.0.16:5140
+#EXTINF:-1,CDTV - 经济
+http://192.168.50.166:4022/rtp/239.93.0.17:1239
+#EXTINF:-1,CDTV - 生活
+http://192.168.50.166:4022/rtp/239.93.0.18:1238
+#EXTINF:-1,CDTV - 影视
+http://192.168.50.166:4022/rtp/239.93.0.19:1250
+#EXTINF:-1,CDTV - 公共
+http://192.168.50.166:4022/rtp/239.93.1.231:5140
+#EXTINF:-1,CDTV - 少儿
+http://192.168.50.166:4022/rtp/239.93.0.21:1251
+#EXTINF:-1,CDTV - 每日购物
+http://192.168.50.166:4022/rtp/239.93.0.22:1252
+#EXTINF:-1,CDTV - 蓉城先锋
+http://192.168.50.166:4022/rtp/239.93.0.91:2101
+#EXTINF:-1,CGTN 英语
+http://192.168.50.166:4022/rtp/239.93.0.104:5140
+#EXTINF:-1,CGTN 西班牙语
+http://192.168.50.166:4022/rtp/239.93.42.49:5140
+#EXTINF:-1,CGTN 法语
+http://192.168.50.166:4022/rtp/239.93.42.50:5140
+#EXTINF:-1,中国交通
+http://192.168.50.166:4022/rtp/239.93.42.62:5140
+#EXTINF:-1,湖南卫视
+http://192.168.50.166:4022/rtp/239.93.0.88:5140
+#EXTINF:-1,江苏卫视
+http://192.168.50.166:4022/rtp/239.93.0.89:5140
+#EXTINF:-1,江苏卫视
+http://192.168.50.166:4022/rtp/239.93.0.72:5140
+#EXTINF:-1,东方卫视
+http://192.168.50.166:4022/rtp/239.93.0.123:5140
+#EXTINF:-1,浙江卫视
+http://192.168.50.166:4022/rtp/239.93.0.124:5140
+#EXTINF:-1,北京卫视
+http://192.168.50.166:4022/rtp/239.93.0.180:5140
+#EXTINF:-1,广东卫视
+http://192.168.50.166:4022/rtp/239.93.0.181:5140
+#EXTINF:-1,深圳卫视
+http://192.168.50.166:4022/rtp/239.93.0.182:5140
+#EXTINF:-1,河北卫视
+http://192.168.50.166:4022/rtp/239.93.0.132:5140
+#EXTINF:-1,天津卫视
+http://192.168.50.166:4022/rtp/239.93.0.167:5140
+#EXTINF:-1,重庆卫视
+http://192.168.50.166:4022/rtp/239.93.1.107:5140
+#EXTINF:-1,贵州卫视
+http://192.168.50.166:4022/rtp/239.93.0.131:5140
+#EXTINF:-1,山东卫视
+http://192.168.50.166:4022/rtp/239.93.0.168:5140
+#EXTINF:-1,河南卫视
+http://192.168.50.166:4022/rtp/239.93.42.45:5140
+#EXTINF:-1,甘肃卫视
+http://192.168.50.166:4022/rtp/239.93.0.81:5140
+#EXTINF:-1,江西卫视
+http://192.168.50.166:4022/rtp/239.93.0.134:5140
+#EXTINF:-1,广西卫视
+http://192.168.50.166:4022/rtp/239.93.42.46:5140
+#EXTINF:-1,湖北卫视
+http://192.168.50.166:4022/rtp/239.93.0.250:5140
+#EXTINF:-1,安徽卫视
+http://192.168.50.166:4022/rtp/239.93.1.106:5140
+#EXTINF:-1,东南卫视
+http://192.168.50.166:4022/rtp/239.93.0.42:5140
+#EXTINF:-1,黑龙江卫视
+http://192.168.50.166:4022/rtp/239.93.0.183:5140
+#EXTINF:-1,吉林卫视
+http://192.168.50.166:4022/rtp/239.93.0.248:5140
+#EXTINF:-1,辽宁卫视
+http://192.168.50.166:4022/rtp/239.93.1.108:5140
+#EXTINF:-1,厦门卫视
+http://192.168.50.166:4022/rtp/239.93.42.57:5140
+#EXTINF:-1,兵团卫视
+http://192.168.50.166:4022/rtp/239.93.42.43:5140
+#EXTINF:-1,农林卫视
+http://192.168.50.166:4022/rtp/239.93.0.100:5140
+#EXTINF:-1,三沙卫视
+http://192.168.50.166:4022/rtp/239.93.42.58:5140
+#EXTINF:-1,新疆卫视
+http://192.168.50.166:4022/rtp/239.93.0.194:5140
+#EXTINF:-1,新疆卫视
+http://192.168.50.166:4022/rtp/239.93.0.82:5140
+#EXTINF:-1,云南卫视
+http://192.168.50.166:4022/rtp/239.93.0.245:5140
+#EXTINF:-1,云南卫视
+http://192.168.50.166:4022/rtp/239.93.0.174:5140
+#EXTINF:-1,宁夏卫视
+http://192.168.50.166:4022/rtp/239.93.0.247:5140
+#EXTINF:-1,宁夏卫视
+http://192.168.50.166:4022/rtp/239.93.0.74:5140
+#EXTINF:-1,内蒙古卫视
+http://192.168.50.166:4022/rtp/239.93.0.8:5140
+#EXTINF:-1,内蒙古卫视
+http://192.168.50.166:4022/rtp/239.93.0.87:5140
+#EXTINF:-1,陕西卫视
+http://192.168.50.166:4022/rtp/239.93.0.125:5140
+#EXTINF:-1,陕西卫视
+http://192.168.50.166:4022/rtp/239.93.0.176:5140
+#EXTINF:-1,山西卫视
+http://192.168.50.166:4022/rtp/239.93.0.127:5140
+#EXTINF:-1,山西卫视
+http://192.168.50.166:4022/rtp/239.93.0.6:5140
+#EXTINF:-1,海南卫视
+http://192.168.50.166:4022/rtp/239.93.0.90:5140
+#EXTINF:-1,海南卫视
+http://192.168.50.166:4022/rtp/239.93.0.80:5140
+#EXTINF:-1,西藏卫视
+http://192.168.50.166:4022/rtp/239.93.0.175:5140
+#EXTINF:-1,西藏卫视
+http://192.168.50.166:4022/rtp/239.93.0.83:5140
+#EXTINF:-1,青海卫视
+http://192.168.50.166:4022/rtp/239.93.0.192:5140
+#EXTINF:-1,青海卫视
+http://192.168.50.166:4022/rtp/239.93.0.85:5140
+#EXTINF:-1,星空卫视
+http://192.168.50.166:4022/rtp/239.93.1.10:2193
+#EXTINF:-1,星空卫视
+http://192.168.50.166:4022/rtp/239.93.0.156:2193
+#EXTINF:-1,CHANNEL V
+http://192.168.50.166:4022/rtp/239.93.1.7:2194
+#EXTINF:-1,CHANNEL V
+http://192.168.50.166:4022/rtp/239.93.0.157:2194
+#EXTINF:-1,求索 - 纪录
+http://192.168.50.166:4022/rtp/239.93.42.24:5140
+#EXTINF:-1,金鹰纪实
+http://192.168.50.166:4022/rtp/239.93.0.130:5140
+#EXTINF:-1,纪实人文
+http://192.168.50.166:4022/rtp/239.93.1.137:5140
+#EXTINF:-1,电视剧
+http://192.168.50.166:4022/rtp/239.93.1.110:5140
+#EXTINF:-1,电视剧
+http://192.168.50.166:4022/rtp/239.93.42.71:5140
+#EXTINF:-1,电视剧
+http://192.168.50.166:4022/rtp/239.93.42.72:5140
+#EXTINF:-1,精彩连播
+http://192.168.50.166:4022/rtp/239.93.0.94:5140
+#EXTINF:-1,精彩连播
+http://192.168.50.166:4022/rtp/239.93.0.214:5140
+#EXTINF:-1,精彩连播
+http://192.168.50.166:4022/rtp/239.93.1.43:5140
+#EXTINF:-1,精彩连播
+http://192.168.50.166:4022/rtp/239.93.1.112:5140
+#EXTINF:-1,精彩连播 - 热血剧场
+http://192.168.50.166:4022/rtp/239.93.1.198:5140
+#EXTINF:-1,精彩连播 - 少儿天地
+http://192.168.50.166:4022/rtp/239.93.1.115:5140
+#EXTINF:-1,电影
+http://192.168.50.166:4022/rtp/239.93.42.47:5140
+#EXTINF:-1,快乐垂钓
+http://192.168.50.166:4022/rtp/239.93.1.151:5140
+#EXTINF:-1,BesTV - LIVE
+http://192.168.50.166:4022/rtp/239.93.1.152:5140
+#EXTINF:-1,BesTV - LIVE
+http://192.168.50.166:4022/rtp/239.93.1.155:2226
+#EXTINF:-1,BesTV - LIVE
+http://192.168.50.166:4022/rtp/239.93.1.184:5140
+#EXTINF:-1,BesTV - LIVE
+http://192.168.50.166:4022/rtp/239.93.1.183:5140
+#EXTINF:-1,BesTV - LIVE
+http://192.168.50.166:4022/rtp/239.93.1.163:5140
+#EXTINF:-1,BesTV - LIVE
+http://192.168.50.166:4022/rtp/239.93.1.185:5140
+#EXTINF:-1,综艺咖秀
+http://192.168.50.166:4022/rtp/239.93.1.175:5140
+#EXTINF:-1,红色经典
+http://192.168.50.166:4022/rtp/239.93.1.176:5140
+#EXTINF:-1,精彩连播
+http://192.168.50.166:4022/rtp/239.93.1.179:5140
+#EXTINF:-1,生活时尚
+http://192.168.50.166:4022/rtp/239.93.42.29:5140
+#EXTINF:-1,都市剧场
+http://192.168.50.166:4022/rtp/239.93.42.30:5140
+#EXTINF:-1,茶频道
+http://192.168.50.166:4022/rtp/239.93.0.114:5140
+#EXTINF:-1,麻辣体育
+http://192.168.50.166:4022/rtp/239.93.42.2:5140
+#EXTINF:-1,爱喜剧
+http://192.168.50.166:4022/rtp/239.93.1.59:5140
+#EXTINF:-1,爱喜剧
+http://192.168.50.166:4022/rtp/239.93.42.9:5140
+#EXTINF:-1,爱科幻
+http://192.168.50.166:4022/rtp/239.93.42.10:5140
+#EXTINF:-1,爱院线
+http://192.168.50.166:4022/rtp/239.93.42.11:5140
+#EXTINF:-1,爱悬疑
+http://192.168.50.166:4022/rtp/239.93.42.12:5140
+#EXTINF:-1,爱经典
+http://192.168.50.166:4022/rtp/239.93.42.13:5140
+#EXTINF:-1,爱谍战
+http://192.168.50.166:4022/rtp/239.93.42.14:5140
+#EXTINF:-1,爱都市
+http://192.168.50.166:4022/rtp/239.93.42.15:5140
+#EXTINF:-1,爱青春
+http://192.168.50.166:4022/rtp/239.93.42.16:5140
+#EXTINF:-1,爱赛车
+http://192.168.50.166:4022/rtp/239.93.42.20:5140
+#EXTINF:-1,爱怀旧
+http://192.168.50.166:4022/rtp/239.93.42.21:5140
+#EXTINF:-1,爱奇谈
+http://192.168.50.166:4022/rtp/239.93.42.22:5140
+#EXTINF:-1,香港電臺RHK31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+#EXTINF:-1,香港電臺RHK32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+#EXTINF:-1,半岛官网直播
+https://live-hls-aje-ak.getaj.net/AJE/index.m3u8
+#EXTINF:-1,大愛一臺HD Live 臺灣直播 | 現正播映：經典劇坊_阿燕 (45集)
+https://www.youtube.com/watch?v=oV_i3Hsl_zg
+#EXTINF:-1,大愛一臺HD Live 全球直播 | 現正播映：經典劇坊_阿燕 (45集)
+https://www.youtube.com/watch?v=MIqUplvSRWA
+#EXTINF:-1,公共電視 13頻道 網路直播 PTS Live
+https://www.youtube.com/watch?v=4Uc00FPs27M
+#EXTINF:-1,公視台語台網路直播(部分節目無版權) |  Tai-gi Live
+https://www.youtube.com/watch?v=6KlRR_DGhmI
+#EXTINF:-1,台視
+https://youtu.be/uDqQo8a7Xmk
+#EXTINF:-1,Bloomberg Global Financial Market News LIVE
+https://www.youtube.com/watch?v=dp8PhLsUcFE
+#EXTINF:-1,CBSN
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1,俄罗斯 . 红星电视台Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1,福州新闻综合
+http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+#EXTINF:-1,福州生活频道
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1,福州少儿频道
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+#EXTINF:-1,76台 - 香港國際財經台
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#EXTINF:-1,77台 - HOY TV
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1,78台 - HOY 資訊台
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1,CCTV - 16 4K
+http://192.168.50.166:4022/rtp/239.93.42.54:5140
+#EXTINF:-1,4K - 超高清电影
+http://192.168.50.166:4022/rtp/239.93.1.156:5140
+#EXTINF:-1,4K - 乐享超清 4K
+http://192.168.50.166:4022/rtp/239.93.0.43:5140
+#EXTINF:-1,爱上4K
+http://192.168.50.166:4022/rtp/239.93.0.97:5140
+#EXTINF:-1,炫影 4K-(HDR)
+http://192.168.50.166:4022/rtp/239.93.42.33:5140
+#EXTINF:-1,BesTV 4K 测试
+rtp://239.93.42.75:5140
+#EXTINF:-1,天翼BesTV 4K HDR
+rtp://239.93.1.194:6000
+#EXTINF:-1,CCTV4K-25P-(HDR)
+http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1,BTV纪实科教-8KSDR源
+http://159.75.85.63:6798
+#EXTINF:-1,苏州4k
+https://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1,浙江新闻
+http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1,浙江国际
+http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1,浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1,浙江教科影视
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1,浙江数码时代
+http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1,浙江民生休闲
+http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1,浙江经济生活
+http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1,钱江都市
+http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1,Bloomberg TV+ 4K
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8?blog.ntnas.top
+#EXTINF:-1,LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1,云南卫视
+http://edu.live.cbncdn.cn/__cl/cg:live/__c/yunnanSD/__op/default/__f/index.m3u8
+#EXTINF:-1,海南卫视
+http://edu.live.cbncdn.cn/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8
+#EXTINF:-1,重庆新闻
+http://edu.live.cbncdn.cn/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8
+#EXTINF:-1,重庆科教
+http://edu.live.cbncdn.cn/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8
+#EXTINF:-1,重庆影视
+http://edu.live.cbncdn.cn/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8
+#EXTINF:-1,重庆文体娱乐
+http://edu.live.cbncdn.cn/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8
+#EXTINF:-1,重庆少儿
+http://edu.live.cbncdn.cn/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8
+#EXTINF:-1,重庆时尚生活
+http://edu.live.cbncdn.cn/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8
+#EXTINF:-1,重庆新农村
+http://edu.live.cbncdn.cn/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8
+#EXTINF:-1,重庆社会与法
+http://edu.live.cbncdn.cn/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8
+#EXTINF:-1,永川综合-1
+https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
+#EXTINF:-1,永川综合-2
+rtmp://113.207.29.195/applive/yctv01
+#EXTINF:-1,璧山综合
+http://222.179.42.129:8181/hls1.m3u8
+#EXTINF:-1,江津新闻综合
+http://222.179.155.21:1935/ch1.m3u8
+#EXTINF:-1,巴南综合
+https://live.cqbntv.com/bnmc/bn14.m3u8
+#EXTINF:-1,DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
